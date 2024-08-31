@@ -1,2 +1,2 @@
 # Multi-agent-system
-This small project demonstrates how to work with a Multi-agent system. I have two Agents: the first is a writer, and the second is an editor. 
+This small project demonstrates how to work with a Multi-agent system. I have two Agents: the first is a writer, and the second is an editor. The writer's function is to create a story based on my initial instruction. Afterward, the editor reviews the story from the writer and asks for adjustments when necessary. Then, the two work together until the end of the story, with human intervention only at the start.
